@@ -1,0 +1,49 @@
+header {
+	height: 60px;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+#logo {
+	float: left;
+	overflow: hidden;
+	margin-left: 10px;
+	display: none;
+	h2 {
+		font-size: 30px;
+		font-weight: 900;
+		color: $mine_shaft;
+		line-height: 40px;
+	}
+	h4 {
+		color: $dove_gray;
+		line-height: 20px;
+	}
+}
+.socialicons {
+	float: right;
+	margin-top: 18px;
+	li {
+		float: left;
+		display: inline;
+		margin: 0;
+		padding: 0;
+		margin-right: 2px;
+		a {
+			font-family: $icomoon;
+			font-size: 16px;
+			display: block;
+			padding: 6px 8px;
+			background-color: $mine_shaft;
+			color: $white;
+			&:hover {
+				color: $maincolor;
+			}
+		}
+	}
+	.socials-text {
+		padding: 9px;
+		height: 10px;
+		background-color: $mine_shaft;
+		color: $white;
+	}
+}

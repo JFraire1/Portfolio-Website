@@ -1,0 +1,45 @@
+.menu {
+	height: 100px;
+	background-color: $gallery;
+	position: relative;
+	width: 100%;
+	margin: auto;
+	@include border-radius(0 0 15px 15px); // apply the mixin 
+}
+.tabs {
+	height: 116px;
+	position: absolute;
+	margin-top: -14px;
+	z-index: 100;
+	li {
+		float: left;
+		height: 116px;
+		> a {
+			padding-top: 28px;
+			width: 115px;
+			display: inline-block;
+			background-repeat: no-repeat;
+			font-size: 16px;
+			color: $silver;
+			text-align: center;
+			font-weight: 300;
+			> i {
+				font-size: 45px;
+				speak: none;
+				font-family: $icomoon;
+				font-style: normal;
+				display: block;
+				margin-bottom: 5px;
+			}
+		}
+		&.active {
+			background: url(../images/tab-hover.png) no-repeat;
+			a {
+				color: $maincolor;
+			}
+		}
+	}
+}
+.disabled {
+	display: none !important;
+}

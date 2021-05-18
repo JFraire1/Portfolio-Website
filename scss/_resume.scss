@@ -1,0 +1,101 @@
+#resume {
+	padding: 40px 20px;
+	overflow: hidden;
+	.button {
+		width: 250px;
+		padding: 10px;
+		background-color: $gray;
+		overflow: hidden;
+		font-size: 14px;
+		font-weight: 300;
+		line-height: 20px;
+		margin: 20px 0 0 -20px;
+		color: $wild_sand;
+		display: block;
+		text-align: center;
+		//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+		border-radius: 0 4px 4px 0;
+		&:hover {
+			background-color: $maincolor;
+		}
+	}
+}
+.skills-section {
+	float: left;
+	width: 270px;
+}
+.timeline-section {
+	float: left;
+	width: 490px;
+	padding-right: 60px;
+}
+.timeline {
+	margin-bottom: 30px;
+	li {
+		margin-bottom: 20px;
+		.timelineUnit {
+			line-height: 17px;
+			margin-left: 0;
+			color: $mine_shaft;
+			font-size: 13px;
+			border-left: 1px solid $maincolor;
+			padding-left: 15px;
+			.timelineDate {
+				line-height: 17px;
+				color: $maincolor;
+				font-size: 14px;
+				margin-left: 10px;
+				font-weight: normal;
+				padding: 2px 6px;
+				float: right;
+			}
+			h4 {
+				line-height: 24px;
+				font-size: 15px;
+				color: $mine_shaft;
+			}
+			h5 {
+				line-height: 18px;
+				font-size: 13px;
+				color: $martini;
+			}
+			p {
+				color: $dove_gray;
+				font-size: 12px;
+				margin-top: 5px;
+			}
+		}
+	}
+}
+.skills {
+	margin-bottom: 25px;
+	overflow: hidden;
+	li {
+		margin-bottom: 15px;
+		float: left;
+		padding-left: 0;
+		h4 {
+			width: 140px;
+			float: left;
+			font-size: 15px;
+			color: $mine_shaft;
+		}
+		.rating {
+			width: 123px;
+			height: 14px;
+			float: left;
+			> span {
+				opacity: 0.3;
+				height: 12px;
+				width: 12px;
+				background-color: $boulder;
+				display: block;
+				float: left;
+				margin-right: 1px;
+				border: 2px solid $gallery;
+				//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+				border-radius: 20px;
+			}
+		}
+	}
+}

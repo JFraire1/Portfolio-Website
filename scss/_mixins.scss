@@ -1,0 +1,68 @@
+// better clear for elements
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+	display: block;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+  }
+}
+
+// border bottom same color
+@mixin gray-border($bcolor) {
+	border-bottom: 1px solid $bcolor;
+	margin-bottom: 5px;
+	width: 100%;
+}
+
+// add prefixes to border radius
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+// custom padding that allows 'null'
+@mixin padding($top, $right, $bottom, $left) {
+  padding-top: $top;
+  padding-right: $right;
+  padding-bottom: $bottom;
+  padding-left: $left;
+}
+
+// custom margin that allows 'null'
+@mixin margin($top, $right, $bottom, $left) {
+  margin-top: $top;
+  margin-right: $right;
+  margin-bottom: $bottom;
+  margin-left: $left;
+}
+
+// define breakpoints with words, not pixels
+@mixin breakpoint($point) {
+   @if $point == large {
+      @media only screen and (min-width: 960px) {
+         @content;
+      }
+   }
+   @else if $point == desktop {
+      @media only screen and(min-width: 768px) and(max-width: 959px) {
+         @content;
+      }
+   } 
+   @else if $point == tablet {
+      @media only screen and(min-width: 480px) and(max-width: 767px) {
+         @content;
+      }
+   }
+   @else if $point == phone {
+      @media only screen and (max-width: 479px) {
+         @content;
+      }
+   }
+}

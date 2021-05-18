@@ -1,0 +1,111 @@
+form {
+	textarea {
+		//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+		box-shadow: inset 0 5px 16px -13px $mine_shaft;
+		background-color: $white;
+		border: 1px solid $alto;
+		//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+		border-radius: 2px;
+		color: $dove_gray;
+		font-size: 12px;
+		height: 30px;
+		outline: none;
+		padding: 6px 10px;
+		resize: none;
+		width: 96%;
+		height: 112px;
+		line-height: 18px;
+		margin-bottom: 0;
+		padding-top: 8px;
+	}
+	.input {
+		//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
+		box-shadow: inset 0 5px 16px -13px $mine_shaft;
+		background-color: $white;
+		border: 1px solid $alto;
+		//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+		border-radius: 2px;
+		color: $dove_gray;
+		font-size: 12px;
+		height: 30px;
+		outline: none;
+		padding: 6px 10px;
+		resize: none;
+		width: 96%;
+	}
+	p {
+		margin-bottom: 15px;
+		label {
+			display: block;
+			color: $martini;
+			margin-bottom: 8px;
+			font-size: 13px;
+		}
+	}
+}
+
+
+#contact {
+	padding: 30px 0;
+	overflow: hidden;
+}
+.contact-info {
+	float: left;
+	padding: 0 20px;
+	width: 250px;
+	ul {
+		float: left;
+		border-left: 1px solid $maincolor;
+		padding-left: 18px;
+		li {
+			font-size: 13px;
+			line-height: 20px;
+			margin-bottom: 10px;
+			color: $dove_gray;
+			overflow: hidden;
+		}
+	}
+}
+.contact-form {
+	float: left;
+	padding: 0 20px;
+	width: 530px;
+}
+#map {
+	height: 300px;
+	margin-bottom: 25px;
+	width: 100%;
+	border-bottom: 1px solid $silver;
+	border-top: 1px solid $silver;
+}
+.button {
+	color: $white;
+	background-color: $dove_gray;
+	padding: 8px;
+	border: none;
+	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+	border-radius: 3px;
+	cursor: pointer;
+	font-size: 13px;
+	&:hover {
+		background-color: $maincolor;
+	}
+}
+.success {
+	padding: 10px;
+	margin-bottom: 10px;
+	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+	border-radius: 3px;
+	background-color: $beryl_green;
+	color: $sushi;
+	border: 1px solid $pine_glade;
+}
+.error {
+	padding: 10px;
+	margin-bottom: 10px;
+	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+	border-radius: 3px;
+	background-color: $vanilla_ice;
+	color: $turkish_rose;
+	border: 1px solid $azalea;
+}

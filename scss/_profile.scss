@@ -1,0 +1,72 @@
+#profile {
+	background: $maincolor;
+	background-image: url(../images/header-shadow.png);
+	background-position: center bottom;
+	background-repeat: repeat-x;
+	overflow: hidden;
+	@include border-radius(15px 15px 0 0); // apply the mixin 
+}
+.about {
+	float: left;
+	margin-top: 30px;
+	width: 490px;
+	margin-left: 20px;
+	.photo-inner {
+		float: left;
+		background: url(../images/photo-inner.png) no-repeat;
+		width: 192px;
+		height: 212px;
+		padding: 12px 0 0 20px;
+		img {
+			background-color: $white;
+		}
+	}
+	h1 {
+		font-weight: 900;
+		color: $white;
+		line-height: 34px;
+		margin-top: 8px;
+	}
+	h3 {
+		margin-top: 5px;
+		font-size: 18px;
+		color: $white;
+		line-height: 18px;
+	}
+	p {
+		font-size: 14px;
+		margin-top: 15px;
+		color: $white;
+		font-weight: 400;
+		line-height: 20px;
+	}
+}
+.personal-info {
+	float: left;
+	margin-top: 30px;
+	width: 310px;
+	min-height: 230px;
+	margin-left: 10px;
+	background: url(../images/personal-info-sep.png) no-repeat left top;
+	padding: 20px 0 0 20px;
+	li {
+		font-size: 14px;
+		margin-bottom: 10px;
+		overflow: hidden;
+		label {
+			color: $white;
+			float: left;
+			padding: 4px 7px;
+			font-weight: 600;
+			//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
+			border-radius: 3px;
+		}
+		span {
+			float: right;
+			width: 220px;
+			padding-top: 4px;
+			font-weight: 300;
+			color: $white;
+		}
+	}
+}
