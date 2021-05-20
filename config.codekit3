@@ -55,132 +55,6 @@
       "oAP" : "\/css\/style.css.map",
       "oF" : 0
     },
-    "\/fonts\/fontawesome\/fa-brands-400.eot" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.eot",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-brands-400.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/fontawesome\/fa-brands-400.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.ttf",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-brands-400.woff" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.woff",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-brands-400.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-regular-400.eot" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.eot",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-regular-400.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/fontawesome\/fa-regular-400.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.ttf",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-regular-400.woff" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.woff",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-regular-400.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.woff2",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-solid-900.eot" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.eot",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-solid-900.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/fonts\/fontawesome\/fa-solid-900.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.ttf",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-solid-900.woff" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.woff",
-      "oF" : 0
-    },
-    "\/fonts\/fontawesome\/fa-solid-900.woff2" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.woff2",
-      "oF" : 0
-    },
     "\/fonts\/icomoon\/icomoon.eot" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1518,7 +1392,7 @@
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/scss\/fontawesome\/fontawesome.css",
       "oF" : 0,
       "oS" : 0,
