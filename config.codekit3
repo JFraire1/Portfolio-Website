@@ -17,6 +17,12 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/.idea" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/.idea",
+      "oF" : 0
+    },
     "\/css\/prettyPhoto.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -41,12 +47,138 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/fonts\/icomoon.zip" : {
+    "\/css\/style.css.map" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/icomoon.zip",
+      "oAP" : "\/css\/style.css.map",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-brands-400.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.eot",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-brands-400.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/fonts\/fontawesome\/fa-brands-400.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-brands-400.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.woff",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-brands-400.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-brands-400.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-regular-400.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.eot",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-regular-400.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/fonts\/fontawesome\/fa-regular-400.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-regular-400.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.woff",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-regular-400.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-regular-400.woff2",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-solid-900.eot" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.eot",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-solid-900.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/fonts\/fontawesome\/fa-solid-900.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-solid-900.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.woff",
+      "oF" : 0
+    },
+    "\/fonts\/fontawesome\/fa-solid-900.woff2" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/fontawesome\/fa-solid-900.woff2",
       "oF" : 0
     },
     "\/fonts\/icomoon\/icomoon.eot" : {
@@ -83,13 +215,52 @@
       "oAP" : "\/fonts\/icomoon\/icomoon.woff",
       "oF" : 0
     },
-    "\/fonts\/index.html" : {
+    "\/fonts\/icomoonicon\/icomoon.eot" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/fonts\/index.html",
+      "oAP" : "\/fonts\/icomoonicon\/icomoon.eot",
       "oF" : 0
+    },
+    "\/fonts\/icomoonicon\/icomoon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/fonts\/icomoonicon\/icomoon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/fonts\/icomoonicon\/icomoon.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/icomoonicon\/icomoon.ttf",
+      "oF" : 0
+    },
+    "\/fonts\/icomoonicon\/icomoon.woff" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/fonts\/icomoonicon\/icomoon.woff",
+      "oF" : 0
+    },
+    "\/images\/body-Background-photo.jpeg" : {
+      "ft" : 16384,
+      "iS" : 34762,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/body-Background-photo.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/images\/header-shadow.png" : {
       "ft" : 32768,
@@ -103,14 +274,6 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/images\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/images\/index.html",
-      "oF" : 0
     },
     "\/images\/personal-info-sep.png" : {
       "ft" : 32768,
@@ -1152,6 +1315,266 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/scss\/fontawesome\/_animated.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_animated.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_bordered-pulled.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_bordered-pulled.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_core.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_core.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_fixed-width.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_fixed-width.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_icons.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_icons.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_larger.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_larger.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_list.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_list.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_mixins.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_mixins.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_rotated-flipped.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_rotated-flipped.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_screen-reader.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_screen-reader.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_shims.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_shims.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_stacked.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_stacked.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/_variables.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/_variables.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/brands.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/scss\/fontawesome\/brands.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/fontawesome.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/scss\/fontawesome\/fontawesome.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/regular.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/scss\/fontawesome\/regular.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/solid.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/scss\/fontawesome\/solid.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/fontawesome\/v4-shims.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/scss\/fontawesome\/v4-shims.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
+    "\/scss\/style.css.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/scss\/style.css.map",
+      "oF" : 0
+    },
     "\/scss\/style.scss" : {
       "aP" : 1,
       "bl" : 1,
@@ -1175,7 +1598,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 640321292.17416298,
-    "displayValue" : "Resume Site BeachHacks",
+    "displayValue" : "Jose-Website",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-silver",
     "iconImageWasSetByUser" : 0
