@@ -4,6 +4,22 @@
     <list default="true" id="9859ce2d-70aa-485c-b48c-48e684b503a5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/colorSelect1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/colorSelect2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/colorSelect3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/endScreen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/example1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/example2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/example3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/gameScreen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/gameScreen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/gameScreen3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/optionsMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/pauseScreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/startScreen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/winTracker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +89,7 @@
       <workItem from="1621633608948" duration="14000" />
       <workItem from="1631206703347" duration="2448000" />
       <workItem from="1631334191009" duration="457000" />
+      <workItem from="1631381782003" duration="3989000" />
     </task>
     <servers />
   </component>
