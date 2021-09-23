@@ -13,12 +13,12 @@ if (isset($_POST['submit'])){
 
     if(mail($mailTo, $subject, $txt, $headers)){
         echo "The email($email_subject) was successfully sent.";
+    	header('Location: /~026422862/');
+    	exit;
     }
     else {
         echo "The email($email_subject) was NOT sent.";
+        echo "Currently Working With System Admin to Resolve The Issue, Please Email Me Directly, For Now"
     }
-
-    //header('Location: /~026422862/');
-    //exit;
 
 }

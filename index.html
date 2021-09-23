@@ -216,22 +216,22 @@
                         <form class="contact-form" action="php/contact.php" method="post">
                             <p>
                                 <label>Your Name
-                                    <input type="text" name="name" placeholder="Full Name" class="input">
+                                    <input type="text" name="name" placeholder="Full Name" class="input" required>
                                 </label>
                             </p>
 
                             <p>
                                 <label>Your Email
-                                    <input type="text" name="mail" placeholder="Email Address" class="input">
+                                    <input type="text" name="mail" placeholder="Email Address" class="input" required pattern="^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$">
                                 </label>
                             </p>
 
                             <p>
                                 <label>Your Message
-                                    <input type="text" name="subject" placeholder="Subject" class="input">
+                                    <input type="text" name="subject" placeholder="Subject" class="input" required>
                                     </label>
                                 <label>
-                                    <textarea name="message" cols="88" rows="6" class="textarea" placeholder="Message"></textarea>
+                                    <textarea name="message" cols="88" rows="6" class="textarea" placeholder="Message" required></textarea>
                                 </label>
                             </p>
 
